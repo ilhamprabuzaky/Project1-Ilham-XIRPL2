@@ -1,6 +1,6 @@
 package classes;
 
-public class giMenu {
+public class Menu {
     private String nama_menu;
     private double harga;
     private String kategori;
